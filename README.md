@@ -1,8 +1,27 @@
+<div align="center">
+  <img src="assets/banner-perfil.png" alt="Lucas Nascimento — Segurança da Informação, Python e Portfólio" width="100%">
+
+  <br>
+
+  <img alt="Python" src="https://img.shields.io/badge/Python-Em%20aprendizado-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Projetos concluídos" src="https://img.shields.io/badge/Projetos%20concluídos-2-22C55E?style=flat-square">
+  <img alt="Status do portfólio" src="https://img.shields.io/badge/Portfólio-Em%20evolução-38BDF8?style=flat-square">
+</div>
+
 # Portfólio de Estudos em Python
 
 Este repositório registra minha evolução em **Python**, desde os fundamentos até projetos práticos. Ele faz parte da minha preparação acadêmica em **Segurança da Informação**, área em que pretendo aplicar programação futuramente em automações e ferramentas defensivas.
 
 ## Projetos concluídos
+
+<p align="center">
+  <a href="projetos/01-analisador-faturamento/">
+    <img src="assets/projeto-01-analisador-faturamento.png" alt="Capa do projeto Analisador de Faturamento" width="49%">
+  </a>
+  <a href="projetos/02-classificador-desempenho-vendas/">
+    <img src="assets/projeto-02-classificador-desempenho.png" alt="Capa do projeto Classificador de Desempenho" width="49%">
+  </a>
+</p>
 
 | Nº | Projeto | Conceitos praticados |
 |---:|---|---|

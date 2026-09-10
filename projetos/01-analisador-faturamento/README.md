@@ -1,4 +1,10 @@
+![Capa do projeto Analisador de Faturamento](../../assets/projeto-01-analisador-faturamento.png)
+
 # Analisador de faturamento semanal e mensal
+
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-22C55E?style=flat-square)
+![Nível](https://img.shields.io/badge/Nível-Iniciante-38BDF8?style=flat-square)
 
 Primeiro projeto do meu portfólio de Python para dados. O programa recebe metas e valores de vendas, calcula o faturamento semanal e avalia separadamente os resultados semanal e mensal.
 
@@ -37,4 +43,3 @@ Depois, informe as metas e os valores solicitados usando ponto para separar as c
 2. Meta semanal atingida e meta mensal não atingida.
 3. Meta semanal não atingida e meta mensal atingida.
 4. Meta semanal e meta mensal não atingidas.
-
